@@ -1,1 +1,1 @@
-b = "hi my name"
+print('hello world')
