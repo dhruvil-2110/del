@@ -1,1 +1,1 @@
-print('I am not studying')
+print('I live in ahmedabad')
